@@ -1,5 +1,5 @@
 # C-Battelship-Game
-Console Battelship Game
+Console Battelship Game written in C language
 
 # Start 
 ![start](https://user-images.githubusercontent.com/56063160/183209557-c5cf31d1-db2e-46ac-9668-23df96823840.PNG)
